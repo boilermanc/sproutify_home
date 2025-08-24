@@ -1,0 +1,15 @@
+# Node / Expo
+node_modules
+.expo
+.expo-shared
+dist
+build
+coverage
+
+# Env
+.env.local
+*.env.local
+
+# OS
+.DS_Store
+Thumbs.db
